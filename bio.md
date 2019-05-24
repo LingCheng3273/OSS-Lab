@@ -2,4 +2,4 @@
 ### Email: chengl7@rpi.edu
 ### GitHub Account: LingCheng3273
 ### Slack Handle: lingcheng
-### Photo: ![photo](/images/photo.jpg)
+### Photo: ![photo](labs/lab-01/images/photo.jpg)
