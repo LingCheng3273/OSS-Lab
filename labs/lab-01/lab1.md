@@ -27,4 +27,4 @@
 ![Crossword4](images/crossword4.png)  
 
 ### Blocky Maze
-![Blocky](images/Blocky.png)  
+![Blocky](images/blocky.png)  
