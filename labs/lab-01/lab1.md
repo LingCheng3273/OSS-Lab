@@ -12,10 +12,10 @@
   like Jesse won't have to worry about legal issues when acting upon their ideas. 
 
 ### Regex
-Photo: ![Regex1](images/regex1.png)  
-Photo: ![Regex2](images/regex2.png)  
-Photo: ![Regex3](images/regex3.png)  
-Photo: ![Regex4](images/regex4.png)  
-Photo: ![Regex5](images/regex5.png)  
-Photo: ![Regex6](images/regex6.png)  
-Photo: ![Regex7](images/regex7.png)  
+![Regex1](images/regex1.png)  
+![Regex2](images/regex2.png)  
+![Regex3](images/regex3.png)  
+![Regex4](images/regex4.png)  
+![Regex5](images/regex5.png)  
+![Regex6](images/regex6.png)  
+![Regex7](images/regex7.png)  
