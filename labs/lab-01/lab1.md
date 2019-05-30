@@ -21,7 +21,7 @@
 ![Regex7](images/regex7.png)  
 
 ### Crossword
-![Crossword](images/corssword1.png)  
-![Crossword](images/corssword2.png)  
-![Crossword](images/corssword3.png)  
-![Crossword](images/corssword4.png)  
+![Crossword](images/crossword1.png)  
+![Crossword](images/crossword2.png)  
+![Crossword](images/crossword3.png)  
+![Crossword](images/crossword4.png)  
