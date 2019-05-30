@@ -13,7 +13,7 @@
 
 ### Tree
 Tree Manual: 
-![Tree Manual](images/treeman.png)
+![Tree Manual](images/treeMan.png)
 Tree Directories:
 ![Tree Directory](images/tree.png)
 
