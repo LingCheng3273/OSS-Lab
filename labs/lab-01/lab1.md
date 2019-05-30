@@ -11,4 +11,11 @@
   softwares encourage such modifications for the better experience of everyone using the software. In addition, people with great ideas 
   like Jesse won't have to worry about legal issues when acting upon their ideas. 
 
-###Regex
+### Regex
+	Photo: ![Regex1](labs/lab-01/images/regex1.png)  
+	Photo: ![Regex2](labs/lab-01/images/regex2.png)  
+	Photo: ![Regex3](labs/lab-01/images/regex3.png)  
+	Photo: ![Regex4](labs/lab-01/images/regex4.png)  
+	Photo: ![Regex5](labs/lab-01/images/regex5.png)  
+	Photo: ![Regex6](labs/lab-01/images/regex6.png)  
+	Photo: ![Regex7](labs/lab-01/images/regex7.png)  
