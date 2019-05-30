@@ -21,7 +21,10 @@
 ![Regex7](images/regex7.png)  
 
 ### Crossword
-![Crossword](images/crossword1.png)  
-![Crossword](images/crossword2.png)  
-![Crossword](images/crossword3.png)  
-![Crossword](images/crossword4.png)  
+![Crossword1](images/crossword1.png)  
+![Crossword2](images/crossword2.png)  
+![Crossword3](images/crossword3.png)  
+![Crossword4](images/crossword4.png)  
+
+### Blocky Maze
+![Blocky](images/Blocky.png)  
