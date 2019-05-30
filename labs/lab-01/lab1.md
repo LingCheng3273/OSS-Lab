@@ -11,6 +11,12 @@
   softwares encourage such modifications for the better experience of everyone using the software. In addition, people with great ideas 
   like Jesse won't have to worry about legal issues when acting upon their ideas. 
 
+### Tree
+Tree Manual: 
+![Tree Manual](images/treeman.png)
+Tree Directories:
+![Tree Directory](images/tree.png)
+
 ### Regex
 ![Regex1](images/regex1.png)  
 ![Regex2](images/regex2.png)  
