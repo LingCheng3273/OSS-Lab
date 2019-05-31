@@ -7,4 +7,4 @@ Mattermost Handle: lingcheng
 Photo: ![photo](labs/lab-01/images/photo.jpg)  
 
 ## Lab Reports
-[Lab 1](labs/lab-01/lab1.md)
+[Lab 1](labs/lab-01/lab01.md)
