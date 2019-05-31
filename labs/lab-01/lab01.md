@@ -34,3 +34,10 @@ Tree Directories:
 
 ### Blocky Maze
 ![Blocky](images/blocky.png)  
+
+### Open Source Project
+An open source project that might be interesting to evaluate is Emacs. I use Emacs as my primary editor when programming, but I haven't really
+gone in depth into what it is capable of. I know that Emacs is really powerful and would like to learn about what other things it
+can do. Another open source project that might be interesting to evaluate is Notepad++. It is a simple editor with many useful features
+like auto-complete based on other words in the file and highlighting keywords when editing a programming file. An addition that
+would be interesting to see would be incorporating markdown, so it can recognize and highlight markdown symbols.
