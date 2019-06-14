@@ -6,3 +6,5 @@ It is important to choose a license so that users can clearly know their rights.
 ## 4. Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?
 You shouldn't use a project that doesn't have an explicit license because it is unclear what you're allowed to do with the project. The owner of the project might require the user to use the software for specific purposes or not allow any modifications. Since your rights aren't clear, you can't assume that you can do whatever you want to the software.
 
+## Why the Web beat Gopher
+I agree with the common argument that Gopher's demise is that it does not support hypertext. Hypertext makes navigation through links more intuitive and useful to the public. Without hypertext, Gopher restricts its use to people who are more knowledgeable about how to use the internet. 
