@@ -23,21 +23,15 @@ Latest commit:
 
 "Merge pull request #46 from gibboa/zacknawrocki-patch-5" by gibboa on Apr 25, 2019
 
-Current branches: 
+Current branches: zacknawrocki-patch-5, zacknawrocki-patch-4, zacknawrocki-patch-3, zacknawrocki-patch-2, zacknawrocki-patch-1
 
-zacknawrocki-patch-5
+Gitstat: 
 
-zacknawrocki-patch-4
-
-zacknawrocki-patch-3
-
-zacknawrocki-patch-2
-
-zacknawrocki-patch-1
-
-Gitstat: ![gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
+![gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
 
 Gource: ![gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
+
+The number of authors listed by gitstats is higher than the number of contributers on GitHub. Also the number of lines on gitsats is less than the number of lines on GitHub.
 
 ## Organizer
 4 Contributors
@@ -107,8 +101,6 @@ Heres the total output:
 ![gource](https://github.com/shailpatels/oss-repo-template/blob/master/labs/lab-03/gource.png)
 
 ## Petitions
-[New Repository](https://github.com/wtg/petitions-rewrite)
-[Original Repository](https://github.com/wtg/petitions)
 ### Contributors
 7, including [petermikitsh](https://github.com/wtg/petitions/commits?author=petermikitsh) from the old repository.
 ### Lines of code
