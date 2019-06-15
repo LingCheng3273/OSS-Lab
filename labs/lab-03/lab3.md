@@ -4,7 +4,8 @@
 3. LaTeX Matrix: ![LaTeX Matrix](LaTeXMatrix.png)
 
 
-# Open_IO
+# Part 2
+## Open_IO
 
 Number of contributors: 5
 
@@ -34,11 +35,11 @@ zacknawrocki-patch-2
 
 zacknawrocki-patch-1
 
-[gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
+Gitstat: ![gitstat](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gitstat.png)
 
-[gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
+Gource: ![gource](https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-03/gource.png)
 
-# Organizer
+## Organizer
 4 Contributors
 
 42703 lines total
@@ -55,7 +56,7 @@ Current Branches: dev, dummy, master
 
 [gitstats:](https://github.com/Riantix/Lab03/blob/master/gitStats.png)
 
-# p5.js
+## p5.js
 64 Contributors
 - 225319 Lines of Code
 - First commit: 
@@ -96,7 +97,6 @@ Current Branches: dev, dummy, master
 	- webgl-gsoc-2018
 	- p5.sound-0.3.10
 
-#5 
 The number of authors is different, gitstats lists 333, which is different than the number listed on GitHub
 The number of lines is also different, gitstats reports 130660. 
 Heres the total output:
@@ -106,34 +106,33 @@ Heres the total output:
 
 ![gource](https://github.com/shailpatels/oss-repo-template/blob/master/labs/lab-03/gource.png)
 
-# Petitions
+## Petitions
 [New Repository](https://github.com/wtg/petitions-rewrite)
 [Original Repository](https://github.com/wtg/petitions)
-## Contributors
+### Contributors
 7, including [petermikitsh](https://github.com/wtg/petitions/commits?author=petermikitsh) from the old repository.
-## Lines of code
+### Lines of code
 //TODO
 To get the lines of a project, try something like git ls-files -z | xargs -0 wc -l in the cloned project directory
-## First commit
+### First commit
 [Commit](https://github.com/wtg/petitions/commit/fbd36a359ff9c6935013026f2048367f8b29a4c7)
-## Latest commit
+### Latest commit
 the current branches
 
-# PhoneControllers
-### Phone Controllers
+## Phone Controllers
 20477 lines  
 4 contributors  
 current branches: master
-#### first commit:  
+### first commit:  
 User: Palmer-Stolly  
 Title: "Initial commit"  
 Date: January 22, 2019  
-#### latest commit: 
+### latest commit: 
 User: Palmer-Stolly  
 Title: "not sure"  
 Date: April 13, 2019  
-#### Gitstats
+### Gitstats
 [gitstats](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-03/resources/outputpath/lines.html)  
 The dates are the same, but the lines and authors are different. There are much fewer lines, and less contributors on gitstats. 
-#### Gource
+### Gource
 [gource](https://www.youtube.com/watch?v=ORImAijAJdw)  
