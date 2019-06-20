@@ -10,4 +10,8 @@ You shouldn't use a project that doesn't have an explicit license because it is 
 I agree with the common argument that Gopher's demise is that it does not support hypertext. Hypertext makes navigation through links more intuitive and useful to the public. Without hypertext, Gopher restricts its use to people who are more knowledgeable about how to use the internet.
 
 ## 6. Can you justify why such a license is chosen based on the history, goals and philosoophy of the project 
-Linux uses the GPL v2 license because the GNU Project was started around the time and the GPU had already been written. Libraries were written for most of programs necessary in an operating system. Linus Torvalds then used the existing open source libraries to write the Linux kernel. 
+Linux uses the GPL v2 license because the GNU Project was started around the time and the GPU had already been written. Libraries were written for most of programs necessary in an operating system. Linus Torvalds then used the existing open source libraries to write the Linux kernel.
+
+## 7. As a table, make up an open source project and business model that you could use to make money from. 
+https://github.com/rcos/CSCI-49XX-OpenSource/blob/master/Modules/Licensing/Lab-Licensing.md
+
