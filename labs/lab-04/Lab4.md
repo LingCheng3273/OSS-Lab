@@ -13,7 +13,7 @@ I agree with the common argument that Gopher's demise is that it does not suppor
 Linux uses the GPL v2 license because the GNU Project was started around the time and the GPU had already been written. Libraries were written for most of programs necessary in an operating system. Linus Torvalds then used the existing open source libraries to write the Linux kernel.
 
 ## 7. As a table, make up an open source project and business model that you could use to make money from. 
-https://github.com/rcos/CSCI-49XX-OpenSource/blob/master/Modules/Licensing/Lab-Licensing.md
+https://github.com/limh0228/Craigslist-for-dogs
 
 ## 8. Take 5 projects from Observatory or past RCOS Projects and create a table for which project has which license. 
 | Website | License Present | License |
