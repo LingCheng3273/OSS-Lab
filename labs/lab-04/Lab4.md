@@ -15,3 +15,13 @@ Linux uses the GPL v2 license because the GNU Project was started around the tim
 ## 7. As a table, make up an open source project and business model that you could use to make money from. 
 https://github.com/rcos/CSCI-49XX-OpenSource/blob/master/Modules/Licensing/Lab-Licensing.md
 
+## 8. Take 5 projects from Observatory or past RCOS Projects and create a table for which project has which license. 
+| Website | License Present | License |
+| ------- |:---------------:| -------:|
+| https://github.com/OpenCircuits/OpenCircuits | Yes | BSD 3-Clause License |
+| https://github.com/apexal/late | Yes | MIT License |
+| https://github.com/yacs-rcos/yacs | Yes | GNU GPL |
+| https://github.com/rcos/venue | Yes | MIT License |
+| https://github.com/jallibad/stillgood | Yes | Apache License 2.0 |
+
+
