@@ -45,3 +45,4 @@ mysqrt does not produce the correct result while sqrt does.
 ![CMakeLists](step5-CMakeLists.png)
 ### Tutorial
 ![tutorial](step5-Tutorial.png)
+Step1's sqrt and Step5's mysqrt gave the same results.
