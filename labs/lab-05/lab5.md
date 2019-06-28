@@ -24,3 +24,16 @@ mysqrt does not produce the correct result while sqrt does.
 ![CMakeLists](step3-CMakeLists.png)
 ### Tutorial
 ![tutorial](step3-Tutorial.png)
+
+## Step 4
+### MathFunctions/CMakeLists.txt
+![CMakeLists](step4-Math-CMakeLists.png)
+### CMakeLists.txt
+![CMakeLists](step4-CMakeLists.png)
+### Test Results
+##### Test 1
+![test1](step4-test1.png)
+##### Test 2-4
+![test2-4](step4-test2-4.png)
+##### Test 5
+![test5](step4-test5.png)
