@@ -16,3 +16,11 @@
 For smaller numbers like 10, both sqrt and mysqrt give the same result.
 For larger numbers like 4294967296, 
 mysqrt does not produce the correct result while sqrt does.
+
+## Step 3
+### MathFunctions/CMakeLists.txt
+![CMakeLists](step3-Math-CMakeLists.png)
+### CMakeLists.txt
+![CMakeLists](step3-CMakeLists.png)
+### Tutorial
+![tutorial](step3-Tutorial.png)
