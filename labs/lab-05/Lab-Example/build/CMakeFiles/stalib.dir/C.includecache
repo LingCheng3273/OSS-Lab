@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/lingc/OneDrive/Documents/RPI/Summer_2019/OpenSource/OSS-Lab/labs/lab-05/Lab-Example/headers/block.h
+
+/mnt/c/Users/lingc/OneDrive/Documents/RPI/Summer_2019/OpenSource/OSS-Lab/labs/lab-05/Lab-Example/source/block.c
+stdio.h
+-
+string.h
+-
+../headers/block.h
+/mnt/c/Users/lingc/OneDrive/Documents/RPI/Summer_2019/OpenSource/OSS-Lab/labs/lab-05/Lab-Example/headers/block.h
+

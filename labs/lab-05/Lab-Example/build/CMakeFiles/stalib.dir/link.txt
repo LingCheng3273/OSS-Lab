@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstalib.a  CMakeFiles/stalib.dir/source/block.c.o
+/usr/bin/ranlib libstalib.a

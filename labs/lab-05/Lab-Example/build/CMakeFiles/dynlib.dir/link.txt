@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libdynlib.so -o libdynlib.so CMakeFiles/dynlib.dir/source/block.c.o 
