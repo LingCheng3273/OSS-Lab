@@ -48,9 +48,12 @@ mysqrt does not produce the correct result while sqrt does.
 Step1's sqrt and Step5's mysqrt gave the same results.
 
 # Makefile
-My Makefile: 
-My CMakefile:
-My Makefile created by cmake: 
+My Makefile: https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-05/Lab-Example/Makefile
+
+My CMakefile: https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-05/Lab-Example/CMakeLists.txt
+
+My Makefile created by cmake: https://github.com/LingCheng3273/OSS-Lab/blob/master/labs/lab-05/Lab-Example/build/Makefile
+
 Size of my executables:
 ![filesize](filesize.png)
 Result of program: 
