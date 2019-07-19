@@ -37,6 +37,20 @@ localhost:5000 wouldn't connect.
 ![example3.3](example3-3.png)
 
 ## Example 4
+### Dockerfile
+![example4.1](example4-1.png)
+### docker-compose.yml
+![example4.2](example4-2.png)
 
-
+When I tried to build docker-compose I kept getting an error on strp 6
+when it's supposed to install and fix the node dependencies. 
+Therefore, I wasn't able to proceed with the lab. I tried skipping this
+step and moving on, but the next steps all depended on the app to run. 
+When I ran the next commands, I got a message saying that docker failed to
+connect to localhost:1337. This makes sense because docker-compose was supposed 
+to connect to localhost:1337. 
+![example4.3](example4-3.png)
+![example4.4](example4-4.png)
+![example4.5](example4-5.png)
+![example4.6](example4-6.png)
 
