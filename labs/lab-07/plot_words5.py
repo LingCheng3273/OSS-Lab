@@ -41,33 +41,16 @@ def generate_graph(words):
 	G = nx.Graph(name="words")
 	lookup = dict((c, lowercase.index(c)) for c in lowercase)
 	G.add_nodes_from(words)
-	#for word in sorted(words):
-	#	all_perms = itertools.permutations(word)
-	#	for perm in all_perms:
-	#		wd = ""
-	#		for letter in perm:
-	#			wd += letter
-	#		if wd in words:
-	#			G.add_edge(word, wd)
-	#			print("new word: " + wd)
 	def edit_distance_one(word):
 		for i in range(len(word)):
 			left, c, right = word[0:i], word[i], word[i + 1:]
-			j = lookup[c]
-			for let in lowercase[j+1:]:
-				#if(let != c):
-				wd = left + let + right
-				all_perms = itertools.permutations(wd)
-				for perm in all_perms:
-					new_wd = ""
-					for letter in perm:
-						new_wd += letter
-					if new_wd in words:
-						yield new_wd
+			j = lookup[c]  # lowercase.index(c)
+			for cc in lowercase[j + 1:]:
+				yield left + cc + right
 	candgen = ((word, cand) for word in sorted(words)
 			   for cand in edit_distance_one(word) if cand in words)
+	G.add_nodes_from(words)
 	for word, cand in candgen:
-		print(word + ", " + cand)
 		G.add_edge(word, cand)
 	return G
 
@@ -95,7 +78,10 @@ if __name__ == '__main__':
 
 	for (source, target) in [('chaos', 'order'),
 							 ('nodes', 'graph'),
-							 ('chaos', 'order')]:
+							 ('moron', 'smart'),
+							 ('flies', 'swims'),
+							 ('mango', 'peach'),
+							 ('pound', 'marks')]:
 		print("Shortest path between %s and %s is" % (source, target))
 		try:
 			sp = nx.shortest_path(G, source, target)
