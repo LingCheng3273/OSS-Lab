@@ -1,7 +1,8 @@
 # Lab 7
 
 ## Part 1
-![Part1](Part1.png)
+![Part1.1](Part1.1.png)
+![Part1.2](Part1.2.png)
 ## Part 2
 [Code for 4 letter solution](plot_words4.py)
 
