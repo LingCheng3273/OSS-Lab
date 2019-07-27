@@ -55,14 +55,14 @@ def generate_graph(words):
 			left, c, right = word[0:i], word[i], word[i + 1:]
 			j = lookup[c]
 			for let in lowercase[j+1:]:
-				#if(let != c):
 				wd = left + let + right
+				# Make all permutations of the modified workd
 				all_perms = itertools.permutations(wd)
 				for perm in all_perms:
 					new_wd = ""
 					for letter in perm:
 						new_wd += letter
-					if new_wd in words:
+					if new_wd in words: # check if permutation exists
 						yield new_wd
 	candgen = ((word, cand) for word in sorted(words)
 			   for cand in edit_distance_one(word) if cand in words)

@@ -76,6 +76,7 @@ if __name__ == '__main__':
 		  % (nx.number_of_nodes(G), nx.number_of_edges(G)))
 	print("%d connected components" % nx.number_connected_components(G))
 
+	# Added new source and targets
 	for (source, target) in [('chaos', 'order'),
 							 ('nodes', 'graph'),
 							 ('moron', 'smart'),

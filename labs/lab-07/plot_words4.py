@@ -55,7 +55,7 @@ def generate_graph(words):
 
 
 def words_graph():
-    """Return the words example graph from the Stanford GraphBase"""
+    # Modified the words file to words_dat.txt.gz to plot 4 letter words
     fh = gzip.open('words4_dat.txt.gz', 'r')
     words = set()
     for line in fh.readlines():
