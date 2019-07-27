@@ -2,6 +2,7 @@
 
 ## Part 1
 [Code for 5 letter solution](plot_words5.py)
+
 Result: 
 ![Part1.1](Part1.1.png)
 ![Part1.2](Part1.2.png)
