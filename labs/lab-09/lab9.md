@@ -9,3 +9,14 @@
 ![Part2.4](part2.4.png)
 
 ## Checkpoint 3
+### Image 1
+![part3.1](part3.1.png)
+![final0](final0.png)
+### Image 2
+![part3.2](part3.2.jpg)
+![final1](final1.png)
+### Image 3
+![part3.3](part3.3.jpg)
+![final2](final2.png)
+### Classification
+![part3.4](part3.4.png)
