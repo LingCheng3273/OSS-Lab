@@ -20,3 +20,7 @@ Photo: ![photo](labs/lab-01/images/photo.jpg)
 [Lab 6](labs/lab-06/lab6.md)
 
 [Lab 7](labs/lab-07/Lab7.md)
+
+[Lab 8](labs/lab-08/lab8.md)
+
+[Lab 9](labs/lab-09/lab9.md)
